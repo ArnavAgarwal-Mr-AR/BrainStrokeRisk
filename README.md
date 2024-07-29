@@ -1,4 +1,4 @@
-# Stroke Possibility Checker
+# BrainStrokeRisk
 
 A simple web app to check the possibility of stroke based on the patient's details. This application predicts the possibility of a stroke based on patient details using a machine learning model. It is built with Streamlit and hosted on Streamlit Community Cloud. Developed by Divyansh Bhandari, and Arnav Agarwal.
 
